@@ -1,3 +1,3 @@
 # Pandas
 
-Resumo da biblioteca Pnadas e alguns códigos de exemplo.
+Resumo da biblioteca Pandas e alguns códigos de exemplo.
